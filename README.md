@@ -2,7 +2,9 @@
 
 Update time: May 11 2017
 
-We have solved **0 / 527** problems.
+* Chenjie Zhou have solved **0 / 527** problems.
+* Wei wei have solved **0 / 527** problems.
+* Zhibin Wu have solved **0 / 527** problems.
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu |
 |:---:|:---:|:---:|:---:|:---:|:---:|
