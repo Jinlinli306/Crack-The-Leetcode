@@ -17,3 +17,8 @@ Update time: May 11 2017
 | 6 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description) |easy||||
 | 7 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/#/description) |easy||||
 | 8 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description) |easy||||
+| 9 | [475. Heaters](https://leetcode.com/tag/binary-search/) |easy||||
+| 10 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description) |easy||||
+| 11 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description) |easy||||
+| 12 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description) |easy||||
+| 13 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/#/description) |easy||||
