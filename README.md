@@ -3,7 +3,7 @@
 Update time: May 11 2017
 
 * Chenjie Zhou have solved **0 / 8** problems.
-* Wei wei have solved **0 / 8** problems.
+* Wei Wei have solved **0 / 8** problems.
 * Zhibin Wu have solved **0 / 8** problems.
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu |
