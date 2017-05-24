@@ -3,13 +3,13 @@
 Update time: May 11 2017
 
 * Chenjie Zhou have solved **0 / 8** problems.
-* Wei wei have solved **0 / 8** problems.
+* Wei Wei have solved **0 / 8** problems.
 * Zhibin Wu have solved **0 / 8** problems.
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
-| 1 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy|||done|
+| 1 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||done|done|
 | 2 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy|||done|
 | 3 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |easy|||done|
 | 4 | [278.First Bad Version](https://leetcode.com/problems/first-bad-version/#/description) |easy|||done|
@@ -29,4 +29,3 @@ Update time: May 11 2017
 | 18 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/#/description) |medium||||
 | 19 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/#/description) |medium||||
 | 20 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium||||
-
