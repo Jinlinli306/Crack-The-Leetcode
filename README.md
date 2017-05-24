@@ -8,7 +8,7 @@ Update time: May 23 2017
 * Zhibin Wu have solved **0 / 20** problems.
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
 | 1 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||done|done||
 | 2 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy|||done||
