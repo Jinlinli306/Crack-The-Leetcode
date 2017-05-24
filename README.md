@@ -1,16 +1,9 @@
 # Crack-The-Leetcode
 
 Update time: May 11 2017
-
-<<<<<<< HEAD
 * Chenjie Zhou have solved **0 / 20** problems.
 * Wei wei have solved **0 / 20** problems.
 * Zhibin Wu have solved **0 / 20** problems.
-=======
-* Chenjie Zhou have solved **0 / 8** problems.
-* Wei Wei have solved **0 / 8** problems.
-* Zhibin Wu have solved **0 / 8** problems.
->>>>>>> origin/master
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu |
 |:---:|:---:|:---:|:---:|:---:|:---:|
