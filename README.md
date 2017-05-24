@@ -5,9 +5,10 @@ Update time: May 23 2017
 
 * Chenjie Zhou have solved **0 / 20** problems.
 * Wei wei have solved **0 / 20** problems.
-* Zhibin Wu have solved **0 / 20** problems.
+* Zhibin Wu have solved **15 / 20** problems.
+* Dakai Du have solved **0 / 20** problems.
 
-| # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du|
+| # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
 | 1 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||done|done||
