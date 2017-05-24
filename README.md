@@ -2,9 +2,15 @@
 
 Update time: May 11 2017
 
+<<<<<<< HEAD
 * Chenjie Zhou have solved **0 / 20** problems.
 * Wei wei have solved **0 / 20** problems.
 * Zhibin Wu have solved **0 / 20** problems.
+=======
+* Chenjie Zhou have solved **0 / 8** problems.
+* Wei Wei have solved **0 / 8** problems.
+* Zhibin Wu have solved **0 / 8** problems.
+>>>>>>> origin/master
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -29,4 +35,3 @@ Update time: May 11 2017
 | 18 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/#/description) |medium||||
 | 19 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/#/description) |medium||||
 | 20 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium||||
-
