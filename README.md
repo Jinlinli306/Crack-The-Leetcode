@@ -15,7 +15,6 @@ Update time: May 23 2017
 | 5 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description) |medium|||:+1:|||
 | 6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/#/description) |medium||||||
 | 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#/description) |medium|||:+1:|||
-
 | 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/#/description) |easy||:grin:|:+1:|||
 | 9 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy||:grin:|:+1:|||
 | 10 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description) |medium||:grin:|:+1:|||
@@ -28,9 +27,7 @@ Update time: May 23 2017
 | 17 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description) |medium|||:+1:|||
 | 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium||||||
 | 19 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description) |medium|||:+1:|||
-
 | 20 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||:grin:|:+1:|||
 | 21 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |easy||:grin:|:+1:|||
-
 ||**DFS**|
 ||**BFS**|
