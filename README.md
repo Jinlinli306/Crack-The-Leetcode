@@ -3,17 +3,11 @@
 
 Update time: May 23 2017
 
-<<<<<<< HEAD
+
 * Chenjie Zhou have solved **0 / 21** problems.
 * Wei wei have solved **0 / 21** problems.
 * Zhibin Wu have solved **0 / 21** problems.
 * Daikai Du have solved **0 / 21** problems.
-=======
-* Chenjie Zhou have solved **0 / 20** problems.
-* Wei wei have solved **0 / 20** problems.
-* Zhibin Wu have solved **15 / 20** problems.
-* Dakai Du have solved **0 / 20** problems.
->>>>>>> origin/master
 
 | # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
