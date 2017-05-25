@@ -14,7 +14,7 @@ Update time: May 23 2017
 ||**Binary Search**|
 | 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard||||||
 | 2 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description) |medium|||done|||
-| 3 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/#/description) |Medium|||done|||
+| 3 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/#/description) |medium|||done|||
 | 4 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/#/description) |medium|||done|||
 | 5 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description) |medium|||done|||
 | 6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/#/description) |medium||||||
