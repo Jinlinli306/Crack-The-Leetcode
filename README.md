@@ -19,13 +19,13 @@ Update time: May 26 2017
 | 9 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy||:grin:|:+1:|||||
 | 10 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description) |medium||:grin:|:+1:||||
 | 11 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description) |easy||:grin:|:+1:||||
-| 12 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/#/description) |hard|||||||
+| 12 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/#/description) |hard|||:+1:||||
 | 13 | [278.First Bad Version](https://leetcode.com/problems/first-bad-version/#/description) |easy||:grin:|:+1:||||
 | 14 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description) |easy||:grin:|:+1:||||
 | 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/#/description) |medium|||||||
 | 16 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/#/description) |medium|||:+1:||||
 | 17 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description) |medium|||:+1:||||
-| 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium|||||||
+| 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium|||:+1:||||
 | 19 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description) |medium|||:+1:||||
 | 20 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||:grin:|:+1:||||
 | 21 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |easy||:grin:|:+1:||||
