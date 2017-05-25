@@ -4,11 +4,6 @@
 Update time: May 23 2017
 
 
-* Chenjie Zhou have solved **0 / 21** problems.
-* Wei wei have solved **0 / 21** problems.
-* Zhibin Wu have solved **0 / 21** problems.
-* Daikai Du have solved **0 / 21** problems.
-
 | # | Title(sort by frequence) | Difficulty |CJ | WW | ZW | Dakai | SW|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
