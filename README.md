@@ -4,6 +4,8 @@
 
 Update time: May 26 2017
 
+Total : **21** problems
+
 
 | # | Title(sort by frequence) | Difficulty |CZ | WW | ZW | DD | SW | LJ |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -22,7 +24,7 @@ Update time: May 26 2017
 | 12 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/#/description) |hard|||:+1:||||
 | 13 | [278.First Bad Version](https://leetcode.com/problems/first-bad-version/#/description) |easy||:grin:|:+1:||||
 | 14 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description) |easy||:grin:|:+1:||||
-| 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/#/description) |medium|||||||
+| 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/#/description) |medium|||:+1:||||
 | 16 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/#/description) |medium|||:+1:||||
 | 17 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description) |medium|||:+1:||||
 | 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium|||:+1:||||
