@@ -4,7 +4,7 @@
 Update time: May 23 2017
 
 
-| # | Title(sort by frequence) | Difficulty |CJ | WW | ZW | Dakai | SW|
+| # | Title(sort by frequence) | Difficulty |CJ | WW | ZW | DD | SW|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
 | 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard||||||
