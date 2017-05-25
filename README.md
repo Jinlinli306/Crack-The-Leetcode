@@ -3,13 +3,20 @@
 
 Update time: May 23 2017
 
+<<<<<<< HEAD
 * Chenjie Zhou have solved **0 / 21** problems.
 * Wei wei have solved **0 / 21** problems.
 * Zhibin Wu have solved **0 / 21** problems.
 * Daikai Du have solved **0 / 21** problems.
+=======
+* Chenjie Zhou have solved **0 / 20** problems.
+* Wei wei have solved **0 / 20** problems.
+* Zhibin Wu have solved **15 / 20** problems.
+* Dakai Du have solved **0 / 20** problems.
+>>>>>>> origin/master
 
-| # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
 | 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard|||||
 | 2 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description) |medium|||done||
