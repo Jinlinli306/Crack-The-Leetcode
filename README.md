@@ -26,7 +26,7 @@ Update time: May 23 2017
 | 17 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description) |medium|||:+1:|||
 | 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description) |medium||||||
 | 19 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description) |medium|||:+1:|||
-| 20 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||done|:+1:|||
+| 20 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||:+1:|:+1:|||
 | 21 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |easy|||:+1:|||
 ||**DFS**|
 ||**BFS**|
