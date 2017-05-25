@@ -9,7 +9,7 @@ Update time: May 23 2017
 * Zhibin Wu have solved **0 / 21** problems.
 * Daikai Du have solved **0 / 21** problems.
 
-| # | Title | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du |
+| # | Title(sort by frequence) | Difficulty |Chenjie Zhou | Wei wei | Zhibin Wu | Dakai Du |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
 | 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard|||||
