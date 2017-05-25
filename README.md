@@ -8,12 +8,12 @@ Update time: May 23 2017
 | # | Title(sort by frequence) | Difficulty |CZ | WW | ZW | DD | SW | LJ | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||**Binary Search**|
-| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard|||||||
+| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |hard|||:+1:||||
 | 2 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/#/description) |medium|||:+1:||||
 | 3 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/#/description) |medium|||:+1:||||
 | 4 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/#/description) |medium|||:+1:||||
 | 5 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description) |medium|||:+1:||||
-| 6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/#/description) |medium|||||||
+| 6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/#/description) |medium|||:+1:||||
 | 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#/description) |medium|||:+1:||||
 | 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/#/description) |easy||:grin:|:+1:||||
 | 9 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy||:grin:|:+1:|||||
