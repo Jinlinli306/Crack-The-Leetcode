@@ -31,7 +31,7 @@ Total : **54** problems
 | 19 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description) |medium|||:+1:||||
 | 20 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|easy||:grin:|:+1:||||
 | 21 | [167.Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |easy||:grin:|:+1:||||
-||**DFS**|
+||**DFS(meeting time : TBD)**|
 | 22 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) |easy|||||||
 | 23 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/#/description) |medium|||||||
 | 24 | [100. Same Tree](https://leetcode.com/problems/same-tree/#/description) |easy|||||||
@@ -51,7 +51,7 @@ Total : **54** problems
 | 38 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description) |medium|||||||
 | 39 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/#/description) |medium|||||||
 | 40 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/#/description) |medium|||||||
-||**BFS**|
+||**BFS(meeting time : TBD)**|
 | 41 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/#/description) |medium|||||||
 | 42 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/#/description) |medium|||||||
 | 43 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description) |easy|||||||
@@ -66,3 +66,5 @@ Total : **54** problems
 | 52 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/#/description) |medium|||||||
 | 53 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/#/description) |medium|||||||
 | 54 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/#/description) |medium|||||||
+||**Two Pointer(meeting time : TBD)**|
+||**Dynamic Programming(meeting time : TBD)**|
