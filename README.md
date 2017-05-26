@@ -4,7 +4,7 @@
 
 Update time: May 26 2017
 
-Total : **21** problems
+Total : **43** problems
 
 
 | # | Title(sort by frequence) | Difficulty |CZ | WW | ZW | DD | SW | LJ |
