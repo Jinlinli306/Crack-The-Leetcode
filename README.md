@@ -17,7 +17,7 @@ Total : **54** problems
 | 5 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description) |medium|||:+1:||||
 | 6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/#/description) |medium|||:+1:||||
 | 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#/description) |medium|||:+1:||||
-| 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/#/description) |easy||:grin:|:+1:||||
+| 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/#/description) |easy|:joy:|:grin:|:+1:||||
 | 9 | [69.Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description) |easy||:grin:|:+1:|||||
 | 10 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description) |medium||:grin:|:+1:||||
 | 11 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description) |easy||:grin:|:+1:||||
@@ -68,3 +68,5 @@ Total : **54** problems
 | 54 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/#/description) |medium|||||||
 ||**Two Pointer(meeting time : TBD)**|
 ||**Dynamic Programming(meeting time : TBD)**|
+
+
