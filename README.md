@@ -38,20 +38,31 @@ Total : **43** problems
 | 25 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description) |easy|||||||
 | 26 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/#/description) |medium|||||||
 | 27 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description) |easy|||||||
-| 28 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description) |easy|||||||
-| 29 | [112. Path Sum](https://leetcode.com/problems/path-sum/#/description) |easy|||||||
-| 30 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/#/description) |medium|||||||
-| 31 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description) |easy|||||||
-| 32 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/#/description) |hard|||||||
-| 33 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/#/description) |medium|||||||
-| 34 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/description) |medium|||||||
-| 35 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/#/description) |medium|||||||
-| 36 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/#/description) |medium|||||||
-| 37 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/#/description) |hard|||||||
-| 38 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/#/description) |medium|||||||
-| 39 | [339.Nested List Weight Sum(unavaliable!!!)]() |easy|||||||
-| 40 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description) |medium|||||||
-| 41 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/#/description) |medium|||||||
-| 42 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/#/description) |medium|||||||
-| 43 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/#/description) |medium|||||||
+| 28 | [112. Path Sum](https://leetcode.com/problems/path-sum/#/description) |easy|||||||
+| 29 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/#/description) |medium|||||||
+| 30 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description) |easy|||||||
+| 31 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/#/description) |hard|||||||
+| 32 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/description) |medium|||||||
+| 33 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/#/description) |medium|||||||
+| 34 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description) |easy|||||||
+| 35 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/#/description) |hard|||||||
+| 36 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/#/description) |medium|||||||
+| 37 | [339.Nested List Weight Sum(unavaliable!!!)]() |easy|||||||
+| 38 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description) |medium|||||||
+| 39 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/#/description) |medium|||||||
+| 40 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/#/description) |medium|||||||
 ||**BFS**|
+| 41 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/#/description) |medium|||||||
+| 42 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/#/description) |medium|||||||
+| 43 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description) |easy|||||||
+| 44 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description) |medium|||||||
+| 45 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/#/description) |medium|||||||
+| 46 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/#/description) |medium|||||||
+| 47 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/#/description) |hard|||||||
+| 48 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/#/description) |medium|||||||
+| 49 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/#/description) |medium|||||||
+| 50 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description) |easy|||||||
+| 51 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/#/description) |medium|||||||
+| 52 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/#/description) |medium|||||||
+| 53 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/#/description) |medium|||||||
+| 54 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/#/description) |medium|||||||
